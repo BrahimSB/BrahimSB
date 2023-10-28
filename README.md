@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Brahim Ben Seddik
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Javascript, PHP and SQL.
-- 💞️ I’m looking to collaborate on a project 
-- 📫 Passionate coder eager to collaborate on exciting projects.
-- Active and helpful, always up for a challenge.
-- Let's create something awesome together!
+-  Hi, my name is Brahim
+-  Passionate about coding and problem-solving.
+-  I’m currently learning JavaScript, PHP and SQL.
+-  I’m looking to collaborate on a project 
+-  Eager to collaborate on exciting projects.
+-  Active, helpful and always up for a challenge.
+-  Let's connect and create something amazing together!
 
 <!---
 BrahimSB/BrahimSB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
